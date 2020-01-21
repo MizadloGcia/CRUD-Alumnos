@@ -22,7 +22,7 @@ namespace CRUD_Alumnos.Controllers
 
 		public ActionResult Contact()
 		{
-			ViewBag.Message = "Your contact page.";
+			ViewBag.Message = "Your contact page. Mizadlo";
 
 			return View();
 		}
